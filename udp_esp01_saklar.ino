@@ -2,9 +2,9 @@
 #include <WiFiUdp.h>
 
 //const char* ssid = "daffa4g";         // Ganti dengan nama SSID WiFi kamu
-//const char* password = "bitagure123"; // Ganti dengan password WiFi kamu
-const char* ssid = "PJU TIMUR";         // Ganti dengan nama SSID WiFi kamu
-const char* password = "prastrans05"; // Ganti dengan password WiFi kamu
+//const char* password = "password123"; // Ganti dengan password WiFi kamu
+const char* ssid = "wifiku";         // Ganti dengan nama SSID WiFi kamu
+const char* password = "bapakmulucu123"; // Ganti dengan password WiFi kamu
 
 WiFiUDP udp;
 unsigned int localUdpPort = 9999;       // Port UDP yang digunakan
